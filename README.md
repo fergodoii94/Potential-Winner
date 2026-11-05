@@ -17,22 +17,35 @@ I build practical backend systems, REST APIs, automation workflows, and data/AI 
 | Automation | Web scraping, bots, workflow automation |
 | Engineering | Git, Docker, testing, clean code |
 
-## Featured Projects
+## Featured Portfolio Projects
 
-### 🛒 E-commerce Backend API
-FastAPI backend demonstrating product, order, and inventory workflows, with an emphasis on API design and backend architecture.
+### 🛒 Task Manager API
+A production-minded FastAPI backend for task management with CRUD endpoints, pagination, filtering, SQLAlchemy persistence, Alembic migrations, validation, and automated tests in CI.
 
-### 🤖 AI Customer Churn Prediction
-Machine-learning project exploring customer churn prediction with Python, pandas, and scikit-learn.
+- Python
+- FastAPI
+- SQLAlchemy
+- PostgreSQL
+- Pytest
+- Docker
 
-### ⚡ FastAPI Task Manager
-REST API project focused on CRUD operations, request validation, and API documentation with FastAPI and Pydantic.
+### 🧾 E-commerce API Prototype
+A backend prototype for product catalog and order flows, including validation of product IDs, stock checks, server-side total calculation, and test coverage for core business rules.
 
-### 🔐 JWT Authentication System
-Authentication-focused Python project covering JWT creation, expiration, and protected access patterns.
+- FastAPI
+- Pydantic
+- Python validation
+- API design patterns
+- Automated tests
 
-### 💬 WebSocket Chat App
-Real-time communication project exploring asynchronous WebSocket connections in Python.
+### 🔐 JWT Authentication Example
+A focused authentication example for JWT generation and validation, including secret configuration, expiration checks, and Bearer-token parsing for protected resources.
+
+- Python
+- PyJWT
+- Security patterns
+- Token validation
+- CI-tested examples
 
 ## Engineering Principles
 
